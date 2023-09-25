@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-I am a PHP Laravel developer and lifelong learner.I enjoy development because of the satisfaction I get by overcoming challenges. I am a team player that can follow and lead as situations dictate.
+Results-oriented software developer with a bachelor's degree in mechatronics engineering. Experienced in developing user-friendly web applications, managing databases, integrating APIs and user experiences. Strong foundation in backend and frontend development with skills in technologies such as React, Spring Boot, Laravel, and Linux server administration.
 
 ---
 
